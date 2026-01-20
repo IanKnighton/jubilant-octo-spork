@@ -5,5 +5,6 @@ resource "github_repository" "jubilant_octo_spork" {
   has_issues    = true
   has_projects  = true
   has_wiki      = true
+  homepage_url  = "https://ianknighton.com/using-github-to-manage-your-github/"
   visibility    = "public"
 }
