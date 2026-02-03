@@ -14,6 +14,8 @@ This repository has been updated to use remote state storage in AWS S3, improvin
 
 For details on these changes, see: [Using GitHub to Manage GitHub: Part Deux](https://ianknighton.com/using-github-to-manage-github-part-deux/)
 
+The repository now includes automated deployment workflows using GitHub Actions, enabling continuous deployment of infrastructure changes. Read more: [Using GitHub to Manage GitHub: Fin](https://ianknighton.com/using-github-to-manage-github-fin/)
+
 ## What's Here
 
 - Terraform configurations for managing GitHub repositories
